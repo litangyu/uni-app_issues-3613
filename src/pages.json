@@ -1,0 +1,23 @@
+{
+    "pages": [
+        {
+            "path": "pages/index",
+            "style": {
+                "navigationBarTitleText": "Index"
+            }
+        },
+        {
+            "path": "pages/wx_choose_image_test",
+            "style": {
+                "navigationBarTitleText": "Test wx.chooseImage"
+            }
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#F0F0F0",
+        "navigationStyle": "custom"
+    }
+}
